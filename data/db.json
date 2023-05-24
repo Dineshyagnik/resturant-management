@@ -1,0 +1,39 @@
+{
+  "Resto": [
+    {
+      "id": 1,
+      "name": "Pizza Maker",
+      "address": "delhi",
+      "rating": "4.7",
+      "email": "pizzamaker@gmail.com"
+    },
+    {
+      "name": "amit",
+      "address": "delhi",
+      "rating": "4.2",
+      "email": "amit@gmail.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "demo Maker",
+      "address": "agra",
+      "rating": "3.7",
+      "email": "demomaker@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Pizza Hut",
+      "address": "delhi",
+      "rating": "4.9",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "name": "radhha",
+      "address": "mathura",
+      "rating": "3.2",
+      "email": "rani@gmail.com",
+      "id": 6
+    }
+  ]
+}
